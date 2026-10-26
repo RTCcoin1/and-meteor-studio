@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rtccoin1.github.io/and-meteor-studio/sitemap.xml
